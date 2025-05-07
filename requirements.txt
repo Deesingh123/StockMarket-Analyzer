@@ -5,3 +5,4 @@ pandas
 requests
 gtts
 fpdf
+pytest
